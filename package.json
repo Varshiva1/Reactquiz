@@ -28,6 +28,7 @@
     "express": "^4.17.0",
     "express-favicon": "^2.0.1",
     "jquery": "^3.4.1",
+    "material-ui": "^0.20.2",
     "module": "^1.2.5",
     "nodemon": "^2.0.15",
     "path": "^0.12.7",
